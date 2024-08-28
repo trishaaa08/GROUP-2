@@ -1,0 +1,102 @@
+body
+{
+	background: url('bg.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	 text-align: center;
+	 
+	
+}
+.lp
+{
+	font-size: 30px;
+	font-family: Serif;
+	color: White;
+	background-color: lightblue;
+	margin-top: 50px;
+	
+}
+.ja
+{
+	border-radius: 100%;
+    display: block;
+    margin-right: 0px;
+    width: 40%;
+    position: absolute;
+	bottom: 0px;
+    right: 400px;
+	height:30%;
+	margin-top:50px;
+	 text-align: center;
+	 text-shadow: 2px 5px 8px white;
+	 color: white;
+	 
+}
+
+.jl
+{
+	border-radius: 100%;
+    display: block;
+    margin-right: 500px;
+    width: 40%;
+    position: absolute;
+	bottom: 0px;
+    left: 80px;
+	height:30%;
+	margin-top:100px;
+	
+	 text-align: center;
+	 text-shadow: 2px 5px 8px white;
+	 color: white;
+}
+
+.tri
+{
+	border-radius: 100%;
+    display: block;
+    margin-right: 65px;
+    width: 40%;
+    position: absolute;
+    right: 500px;
+	height:25%;
+	margin-top:50px;
+	 text-align: center;
+	 text-shadow: 2px 5px 8px white;
+	 color: white;
+}
+
+.rem
+{
+	border-radius: 100%;
+    display: block;
+    margin-right:0px;
+    width: 40%;
+    position: absolute;
+    right: 0px;
+	height:25%;
+	margin-top:50px;
+	 text-align: center;
+	 text-shadow: 2px 5px 8px white;
+	 color: white;
+}
+
+.aly
+{
+	border-radius: 100%;
+    display: block;
+    margin-left: 0px;
+    width: 30%;
+    position: absolute;
+    left: 80px;
+	height:25%;
+	margin-top:50px;
+	font-family: Times;
+	text-align: center;
+	 text-shadow: 2px 5px 8px white;
+	 color: white;
+	
+}
+
+
